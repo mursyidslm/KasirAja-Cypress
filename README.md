@@ -1,1 +1,1 @@
-# SauceDemo-Cypress
+# KasirAja-Cypress
